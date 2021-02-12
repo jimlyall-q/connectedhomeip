@@ -291,7 +291,7 @@ CHIP_ERROR CASESession::SendSigmaR1()
     {
         uint16_t n_trusted_roots = sizeof(TrustedRoots) / sizeof(TrustedRootIdentifier);
         Encoding::LittleEndian::BufferWriter bbuf(&msg[kSigmaParamRandomNumberSize], data_len - kSigmaParamRandomNumberSize);
-        
+
         // Omitting SessionID here - Mirroring PASESession, which omits SessionID as well
         bbuf.Put16(n_trusted_roots);
         for (size_t i = 0; i < n_trusted_roots; ++i)
