@@ -8,7 +8,6 @@ var classchip_1_1_device_layer_1_1_internal_1_1_q_p_g6100_config =
     [ "ForEachRecord", "classchip_1_1_device_layer_1_1_internal_1_1_q_p_g6100_config.html#a126cf6843c53e3e98317535ec533ed16", null ],
     [ "GetSettingsMaxValueLength", "classchip_1_1_device_layer_1_1_internal_1_1_q_p_g6100_config.html#a73eb909598cf119eb69367c4716544f3", null ],
     [ "Init", "classchip_1_1_device_layer_1_1_internal_1_1_q_p_g6100_config.html#a521ab524fde1ecadd2840afda2de4039", null ],
-    [ "MapNVMError", "classchip_1_1_device_layer_1_1_internal_1_1_q_p_g6100_config.html#a530d8353889def299eedcb7921c5db2e", null ],
     [ "ReadConfigValue", "classchip_1_1_device_layer_1_1_internal_1_1_q_p_g6100_config.html#abb550f93a45329eae4a5a6d96a932460", null ],
     [ "ReadConfigValue", "classchip_1_1_device_layer_1_1_internal_1_1_q_p_g6100_config.html#a51beb76d6b0ac39124e32acfc655f9d9", null ],
     [ "ReadConfigValue", "classchip_1_1_device_layer_1_1_internal_1_1_q_p_g6100_config.html#a2c16bdc6c1487aa5b8305fa80a02b1b7", null ],
