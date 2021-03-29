@@ -1,4 +1,6 @@
 <map id="chip::DeviceLayer::Internal::QPG6100Config::ReadConfigValueStr" name="chip::DeviceLayer::Internal::QPG6100Config::ReadConfigValueStr">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,187,61"/>
-<area shape="rect" id="node2" href="$classchip_1_1_device_layer_1_1_internal_1_1_q_p_g6100_config.html#a530d8353889def299eedcb7921c5db2e" title=" " alt="" coords="235,5,416,61"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,187,87"/>
+<area shape="rect" id="node2" href="$namespacechip_1_1_uint8.html#a5c5efdaeadd4b0d5adfd814622a91132" title="Safely typecast a pointer to char to uint8_t." alt="" coords="242,13,409,39"/>
+<area shape="rect" id="node4" href="$classchip_1_1_device_layer_1_1_internal_1_1_q_p_g6100_config.html#a530d8353889def299eedcb7921c5db2e" title=" " alt="" coords="235,63,416,119"/>
+<area shape="rect" id="node3" href="$namespacechip_1_1_crypto.html#a7839660c978cd3df1db89b8f720daf35" title=" " alt="" coords="464,5,628,47"/>
 </map>

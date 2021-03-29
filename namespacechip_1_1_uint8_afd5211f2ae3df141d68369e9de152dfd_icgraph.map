@@ -1,4 +1,5 @@
 <map id="chip::Uint8::from_const_char" name="chip::Uint8::from_const_char">
-<area shape="rect" id="node1" title="Safely typecast a pointer to const char to const uint8_t." alt="" coords="248,13,456,39"/>
+<area shape="rect" id="node1" title="Safely typecast a pointer to const char to const uint8_t." alt="" coords="248,50,456,77"/>
 <area shape="rect" id="node2" href="$classchip_1_1_mdns_1_1_discovery_impl_platform.html#ab7f84db2ce42c779486230aad7357ded" title="Advertises the CHIP node as a commisioning/commissionable node." alt="" coords="5,5,200,47"/>
+<area shape="rect" id="node3" href="$classchip_1_1_device_layer_1_1_internal_1_1_q_p_g6100_config.html#a57282144d5c4035ca0f2d0c64a11d021" title=" " alt="" coords="12,71,193,127"/>
 </map>

@@ -1,4 +1,5 @@
 <map id="chip::Uint8::from_char" name="chip::Uint8::from_char">
-<area shape="rect" id="node1" title="Safely typecast a pointer to char to uint8_t." alt="" coords="323,13,489,39"/>
+<area shape="rect" id="node1" title="Safely typecast a pointer to char to uint8_t." alt="" coords="323,50,489,77"/>
 <area shape="rect" id="node2" href="$classchip_1_1_network_provisioning.html#abdc8985d7e49b851d831e3baa8cd970c" title=" " alt="" coords="5,5,275,47"/>
+<area shape="rect" id="node3" href="$classchip_1_1_device_layer_1_1_internal_1_1_q_p_g6100_config.html#a69c65fee6a71ead2935570293a3b6002" title=" " alt="" coords="49,71,231,127"/>
 </map>
